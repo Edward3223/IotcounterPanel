@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CountdonwPanel"
+    }
+  },
+  "defaultProject": "CountdonwPanel",
+  "cli": {
+    "analytics": false
+  }
 }
